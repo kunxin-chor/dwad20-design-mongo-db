@@ -1,0 +1,17 @@
+[
+    {
+        "_id":"1001",
+        "name":"Benjamin Tan",
+        "dateOfBirth": "2019-03-15"
+    },
+    {
+        "_id":"1002",
+        "name":"Carol Lee",
+        "dateOfBirth": "2018-01-11"
+    },
+    {
+        "_id":"1003",
+        "name":"Tan Ah Min",
+        "dateOfBirth": "2019-02-02"
+    }
+]

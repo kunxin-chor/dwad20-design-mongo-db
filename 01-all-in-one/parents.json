@@ -1,0 +1,37 @@
+[
+    {
+        "_id":"1001",
+        "name": "Tan Ah Kow",
+        "occupation":"Lawyer",
+        "contact_no":"12312356",
+        "students":[
+            {
+                "_id":"2001",
+                "name":"Benjamin Tan",
+                "dob":"2019-01-03",
+                "sessions":[
+                    {
+                        "_id":"301",
+                        "datetime":"2022-10-09 10:00",
+                        "location": {
+                            "name":"Yishun Swimming Complex",
+                            "address":"Yishun Ave 4 01-01"
+                        },
+                        "payment":{
+                            "_id":401,
+                            "mode":"CC",
+                            "amount": 50,
+                            "datetime": "2022-10-08 17:00"
+                        }
+                    }
+
+                ]
+            },
+            {
+                "_id":"2002",
+                "name":"Cindy Tan",
+                "dob": "2018-02-03"
+            }
+        ]
+    }
+]

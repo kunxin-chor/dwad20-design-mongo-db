@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "2001",
+        "name": "Benjamin Tan",
+        "dateOfBirth": "2019-03-01",
+        "parent":{
+            "_id":"1001",
+            "name":"Tan Ah Kow"
+        },
+        "sessions": [
+            {
+                "_id": "501",
+                "location": "Yishun Swimming Complex"
+            },
+            {
+                "_id": "502",
+                "location": "Ang Mo Kio Swimming Complex"
+            }
+        ]
+    },
+    {
+        "_id": "2003",
+        "name": "Cindy Teo",
+        "dateOfBirth": "2019-03-01",
+        "sessions": [
+            {
+                "_id": "502",
+                "location": "Ang Mo Kio Swimming Complex"
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "_id":"5001",
+        "datetime":"2022-10-31 10:00",
+        "location": "Yishun Swimming Pool",
+        "students":[
+            {
+                "_id":"1001",
+                "name":"Benjamin Tan",
+                "dateofbirth":"2019-01-01",
+                "payment":{
+                    "_id":"401",
+                    "mode":"CC",
+                    "amount":50
+                }
+            },
+            {
+                "_id":"1003",
+                "name":"Rachel Ang",
+                "dateofbirth":"2019-01-02",
+                "payment":null
+            }
+        ]
+    }
+]
